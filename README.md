@@ -2,15 +2,7 @@
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anju+Kumawat+👋;Final+Year+CSE+Student+%7C+Tech+Explorer+💡" alt="Typing Intro">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Anju+Kumawat;Final+Year+CSE+Student+%7C+Tech+Explorer+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
 
