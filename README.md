@@ -33,18 +33,10 @@
 
 #### 🔹 Personal Assistant Chatbot (Real-Time + Auto-Reply)  
 **Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
-💬 Responds automatically to messages on WhatsApp/Telegram using NLP  
+💬 Responds automatically to messages on WhatsApp/Telegram and also a pesrsonal chatbot to assist
 [🔗 View Repo](https://github.com/anjukumawat29/chatbot)
 
-#### 🔹 Spotify Clone – Frontend Music Player  
-**Tech:** HTML | CSS | JavaScript  
-🎵 A custom-built responsive Spotify UI with cards, play buttons, and trending music layout  
-[🔗 View Repo](https://github.com/anjukumawat29/Spotify-clone)
 
-#### 🔹 Tic Tac Toe with AI (Minimax)  
-**Tech:** Python | Tkinter  
-🎮 Fun interactive game with AI-based decision making  
-[🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
 ---
 ## 💡 Today’s Thought
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder)
