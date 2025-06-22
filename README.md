@@ -47,7 +47,7 @@
 [🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
 ---
 ## 💡 Today’s Thought
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder)
 
 ---
 
