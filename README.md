@@ -60,3 +60,7 @@ Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
 ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
 Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
 Concepts      : DSA, OOP, Chatbots, MVC, NLP
+```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ffcc&animation=twinkling" alt="footer"/>
+</p>
