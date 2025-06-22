@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anju+Kumawat;A+curious+mind+in+tech+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anju+Kumawat;A+curious+mind+in+tech+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 ---
 
