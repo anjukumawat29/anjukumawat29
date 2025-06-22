@@ -56,6 +56,7 @@ Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
 ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
 Tools & IDEs  : Git, GitHub, VS Code, Groq AP
 ```
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=👋+Thanks+for+visiting!" alt="Thanks for visiting" />
 </p>
