@@ -1,46 +1,51 @@
 <h1 align="center">Hi 👋, I'm Anju Kumawat</h1>
-<h3 align="center">Final Year CSE Student | Web & ML Developer | Curious Mind 💻🧠</h3>
+<h3 align="center">Final Year CSE Student | Web & ML Developer | Tech Explorer 💡</h3>
 
-- 🎓 Final Year B.Tech CSE @ Rajasthan College of Engineering for Women (CGPA: 9.56)
-- 🌱 Currently exploring **MERN Stack**, **AI/ML**, and **Chatbot Development**
-- 💻 Passionate about building real-world projects that solve real problems
-- 📫 Reach me at: anjukumawat1004@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anju-kumawat-4a6014276)
-
----
-
-### 🚀 Projects
-
-**🔹 TravaHome – Airbnb-like Full-Stack App**  
-Tech Stack: `Node.js`, `Express`, `MongoDB`, `EJS`, `Bootstrap`, `MapTiler`  
-➤ Dynamic listing, reviews, filters, and user auth system.  
-[🔗 GitHub Repo](https://github.com/anjukumawat29/TravaHome)
-
-**🔹 Personal Assistant Chatbot**  
-Tech Stack: `Python`, `FastAPI`, `Tkinter`, `LLaMA3`, `PyAutoGUI`  
-➤ Intelligent replies, browser automation, and WhatsApp auto-responder.
-
-**🔹 Heart Disease Prediction ML App**  
-➤ Built during Edureka Internship | Used Scikit-learn, Pandas for data analysis.  
-[🔗 GitHub Repo (if any)](https://github.com/anjukumawat29/Heart-Attack-Prediction-ML)
-
-**🔹 Tic Tac Toe with AI (Minimax)**  
-Tech Stack: `Python`, `Tkinter`  
-➤ Supports both multiplayer and single-player AI modes.
+<p align="center">
+  <a href="mailto:anjukumawat1004@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/anju-kumawat-4a6014276" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/anjukumawat29" target="_blank">🐙 GitHub</a>
+</p>
 
 ---
 
-### 🧠 Skills & Tools
+### 👩‍💻 About Me
 
-`Python` `JavaScript` `C++` `Java`  
-`FastAPI` `Tkinter` `Node.js` `MongoDB` `Express.js` `HTML` `CSS` `Bootstrap`  
-`Git` `GitHub` `VS Code` `Scikit-learn` `Pandas` `OpenCV` `Groq API`  
-
----
-
-### ❤️ Let's Connect!
-- 📧 Email: anjukumawat1004@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/anju-kumawat-4a6014276](https://www.linkedin.com/in/anju-kumawat-4a6014276)
+🎓 Final year B.Tech CSE student at Rajasthan College of Engineering for Women (CGPA: 9.56)  
+🧠 Passionate about **AI, ML**, and **full-stack web development**  
+🚀 Building real-world solutions using **FastAPI**, **MERN**, and **NLP**  
+📚 Active learner with a curious mind and research mindset  
 
 ---
 
+### 🌟 Featured Projects
+
+#### 🔹 TravaHome – Airbnb-like Travel Listing App  
+**Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap | Cloudinary | MapTiler  
+🧳 Dynamic listing filters, reviews, user auth — inspired by real travel apps  
+[🔗 View Repo](https://github.com/anjukumawat29/TravaHome)
+
+#### 🔹 Personal Assistant Chatbot (Real-Time + Auto-Reply)  
+**Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
+💬 Responds automatically to messages on WhatsApp/Telegram using NLP  
+[🔗 View Repo](https://github.com/anjukumawat29/AI-Chatbot-FastAPI) *(replace if URL differs)*
+
+#### 🔹 Heart Disease Prediction – ML Model  
+**Tech:** Scikit-learn | Pandas | Matplotlib  
+❤️ Built during Edureka Internship – Predicts heart disease risk from input features  
+[🔗 View Repo](https://github.com/anjukumawat29/Heart-Attack-Prediction-ML)
+
+#### 🔹 Tic Tac Toe with AI (Minimax)  
+**Tech:** Python | Tkinter  
+🎮 Fun interactive game with AI-based decision making
+
+---
+
+### 💻 Tech Stack
+
+```bash
+Languages     : Python, JavaScript, C++, Java
+Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
+ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
+Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
+Concepts      : DSA, OOP, Chatbots, MVC, NLP
