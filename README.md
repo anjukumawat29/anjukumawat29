@@ -47,7 +47,8 @@
 [🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
 ---
 ## 💡 Today’s Thought
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Fira+Code)
+![Quote](https://img.shields.io/badge/Thought-%22Keep%20coding%20until%20it%20clicks.%22-blueviolet?style=for-the-badge&logo=quote&logoColor=white)
+
 ---
 
 ### 💻 Tech Stack
