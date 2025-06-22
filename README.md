@@ -47,7 +47,7 @@
 [🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
 ---
 ## 💡 Today’s Thought
-![Quote](https://img.shields.io/badge/Thought-%22Keep%20coding%20until%20it%20clicks.%22-blueviolet?style=for-the-badge&logo=quote&logoColor=white)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
