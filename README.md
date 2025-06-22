@@ -1,13 +1,14 @@
-![developer](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-
 <p align="center">
-  <img src="https://your-image-link-here.gif" alt="Hi, I'm Anju Kumawat 👋 Final Year CSE Student | Tech Explorer 💡" />
+  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anju+Kumawat+👋;Final+Year+CSE+Student+%7C+Tech+Explorer+💡" alt="Typing Intro">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -24,28 +25,28 @@
 
 ### 🌟 Featured Projects
 
-#### 🔹 TravaHome – Airbnb-like Travel Listing App  
+#### 🔹 [TravaHome – Airbnb-like Travel Listing App](https://github.com/anjukumawat29/TravaHome)  
 **Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap | Cloudinary | MapTiler  
 🧳 Dynamic listing filters, reviews, user auth — inspired by real travel apps  
-[🔗 View Repo](https://github.com/anjukumawat29/TravaHome)
 
-#### 🔹 Personal Assistant Chatbot (Real-Time + Auto-Reply)  
+#### 🔹 [Personal Assistant Chatbot (Real-Time + Auto-Reply)](https://github.com/anjukumawat29/chatbot)  
 **Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
-💬 Responds automatically to messages on WhatsApp/Telegram and also a pesrsonal chatbot to assist
-
-[🔗 View Repo](https://github.com/anjukumawat29/chatbot)
-
+💬 Responds automatically to messages on WhatsApp/Telegram — also acts as a personal desktop assistant
 
 ---
+
 ## 💡 Today’s Thought
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hideBorder" alt="Quote of the Day" />
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,python,java,cpp,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,python,java,cpp,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ```bash
@@ -56,5 +57,3 @@ Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
 Concepts      : DSA, OOP, Chatbots, MVC, NLP
 ```
 ![Thanks for visiting](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=👋+Thanks+for+visiting!)
-
-
