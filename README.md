@@ -2,9 +2,11 @@
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00FEEF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Anju+Kumawat!;🚀+Tech+Explorer+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+my+GitHub+profile!)
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Anju+Kumawat;Final+Year+CSE+Student+%7C+Tech+Explorer+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-
+</p>
 ---
 
 ### 👩‍💻 About Me
