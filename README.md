@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&desc=👩‍💻%20Web%20%26%20ML%20Developer%20|%20Final%20Year%20CSE%20Student&descSize=20&fontSize=36&fontColor=ffffff&descColor=dddddd&animation=fadeIn" alt="header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=👩‍💻+Full-stack+Web+%26+ML+Developer;💡+I+love+solving+real-world+problems;🌐+Building+for+the+future" alt="Typing Animation" />
 </p>
-
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
