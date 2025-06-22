@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:f7971e,100:ffd200&height=200&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=200&section=header&text=👩‍💻%20Hi%20there,%20I'm%20Anju%20Kumawat!%20👩‍💻&fontSize=40&fontColor=00ffcc&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Coding%20Enthusiast&descSize=20&descAlign=50" alt="header"/>
 </p>
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
