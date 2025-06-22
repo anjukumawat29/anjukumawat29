@@ -2,8 +2,8 @@
   <img src="https://i.gifer.com/7VE.gif" width="100%" />
 </p>
 
-<h2 align="center" style="margin-top:-200px; color:white;">Hi 👋, I'm Anju Kumawat</h2>
-<p align="center" style="color:#00ff99;">Tech Explorer | CSE Final Year 💡</p>
+<h2 align="center">Hi 👋, I'm Anju Kumawat</h2>
+<p align="center">Final Year CSE Student | Tech Explorer 💻</p>
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
