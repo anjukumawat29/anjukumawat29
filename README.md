@@ -1,9 +1,6 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" />
-  <h1 style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
-    Hi, I'm Anju Kumawat 👩‍💻
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anju+Kumawat;Final+Year+CSE+Student;Tech+Explorer+💡" />
+</p>
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
