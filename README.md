@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anju Kumawat</h1>
-<h3 align="center">Final Year CSE Student | Tech Explorer 💡</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Anju+Kumawat+💻;Final+Year+CSE+Student;Tech+Lover+%F0%9F%92%8E;Let's+Connect+%F0%9F%91%8B" />
+</p>
+
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
