@@ -1,4 +1,4 @@
-<img alt="developer" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" style="max-width: 100%; display: inline-block;" />
+![developer](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
