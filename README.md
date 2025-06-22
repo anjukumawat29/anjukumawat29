@@ -50,6 +50,5 @@ ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
 Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
 Concepts      : DSA, OOP, Chatbots, MVC, NLP
 ```
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ffff&animation=twinkling" alt="footer"/>
-</p>
+![Thanks for visiting](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
