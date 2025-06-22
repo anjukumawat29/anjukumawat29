@@ -2,9 +2,8 @@
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="Developer Banner" width="100%" />
 </p>
 
-<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00FEEF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Anju+Kumawat!;🚀+Tech+Explorer+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+my+GitHub+profile!)
-</p>
+
 
 ---
 
