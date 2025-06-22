@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&desc=Web%20%26%20ML%20Developer%20👩‍💻%20|%20Final%20Year%20CSE%20Student&descSize=18&fontSize=36&fontColor=ffffff&descColor=ffffff&animation=fadeIn" alt="header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fc00ff,00dbde&height=250&section=header&text=Hi%20there,%20I'm%20Anju!&desc=Web%20%26%20ML%20Developer&descSize=20&fontSize=40&fontColor=ffffff&descColor=ffffff&animation=fadeIn" />
+
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
