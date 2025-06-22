@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anju Kumawat</h1>
-<h3 align="center">Final Year CSE Student | Web & ML Developer | Tech Explorer 💡</h3>
+<h3 align="center">Final Year CSE Student | Tech Explorer 💡</h3>
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">📧 Email</a> •
@@ -17,7 +17,6 @@
 📚 Active learner with a curious mind and research mindset  
 
 ---
-
 ### 🌟 Featured Projects
 
 #### 🔹 TravaHome – Airbnb-like Travel Listing App  
@@ -28,18 +27,17 @@
 #### 🔹 Personal Assistant Chatbot (Real-Time + Auto-Reply)  
 **Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
 💬 Responds automatically to messages on WhatsApp/Telegram using NLP  
-[🔗 View Repo](https://github.com/anjukumawat29/AI-Chatbot-FastAPI) 
+[🔗 View Repo](https://github.com/anjukumawat29/chatbot)
 
 #### 🔹 Spotify Clone – Frontend Music Player  
 **Tech:** HTML | CSS | JavaScript  
 🎵 A custom-built responsive Spotify UI with cards, play buttons, and trending music layout  
-[🔗 View Repo](https://github.com/anjukumawat29/Spotify-Clone) 
+[🔗 View Repo](https://github.com/anjukumawat29/Spotify-clone)
 
 #### 🔹 Tic Tac Toe with AI (Minimax)  
 **Tech:** Python | Tkinter  
 🎮 Fun interactive game with AI-based decision making  
-[🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-AI) 
-
+[🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
 ---
 
 ### 💻 Tech Stack
