@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:f7971e,100:ffd200&height=200&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
