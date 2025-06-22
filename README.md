@@ -27,6 +27,11 @@
 #### 🔹 [Personal Assistant Chatbot (Real-Time + Auto-Reply)](https://github.com/anjukumawat29/chatbot)  
 **Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
 💬 Responds automatically to messages on WhatsApp/Telegram — also acts as a personal desktop assistant
+---
+
+<p align="center">
+  <img src="./github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
