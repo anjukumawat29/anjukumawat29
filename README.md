@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 Final year B.Tech CSE student at Rajasthan College of Engineering for Women (CGPA: 9.56)  
+🎓 Final year B.Tech CSE student  
 🧠 Passionate about **AI, ML**, and **full-stack web development**  
 🚀 Building real-world solutions using **FastAPI**, **MERN**, and **NLP**  
 📚 Active learner with a curious mind and research mindset  
@@ -28,16 +28,17 @@
 #### 🔹 Personal Assistant Chatbot (Real-Time + Auto-Reply)  
 **Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
 💬 Responds automatically to messages on WhatsApp/Telegram using NLP  
-[🔗 View Repo](https://github.com/anjukumawat29/AI-Chatbot-FastAPI) *(replace if URL differs)*
+[🔗 View Repo](https://github.com/anjukumawat29/AI-Chatbot-FastAPI) 
 
-#### 🔹 Heart Disease Prediction – ML Model  
-**Tech:** Scikit-learn | Pandas | Matplotlib  
-❤️ Built during Edureka Internship – Predicts heart disease risk from input features  
-[🔗 View Repo](https://github.com/anjukumawat29/Heart-Attack-Prediction-ML)
+#### 🔹 Spotify Clone – Frontend Music Player  
+**Tech:** HTML | CSS | JavaScript  
+🎵 A custom-built responsive Spotify UI with cards, play buttons, and trending music layout  
+[🔗 View Repo](https://github.com/anjukumawat29/Spotify-Clone) 
 
 #### 🔹 Tic Tac Toe with AI (Minimax)  
 **Tech:** Python | Tkinter  
-🎮 Fun interactive game with AI-based decision making
+🎮 Fun interactive game with AI-based decision making  
+[🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-AI) 
 
 ---
 
