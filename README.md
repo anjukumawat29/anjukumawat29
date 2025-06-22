@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Anju+Kumawat+💻;Final+Year+CSE+Student;Tech+Lover+%F0%9F%92%8E;Let's+Connect+%F0%9F%91%8B" />
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="60%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Anju Kumawat</h1>
+
 
 
 <p align="center">
