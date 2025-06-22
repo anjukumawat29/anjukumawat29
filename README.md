@@ -54,7 +54,7 @@
 Languages     : Python, JavaScript, C++, Java
 Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
 ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
-Tools & IDEs  : Git, GitHub, VS Code, Groq AP
+Tools & IDEs  : Git, GitHub, VS Code, Groq API
 ```
 
 <p align="center">
