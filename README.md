@@ -1,6 +1,10 @@
 ![developer](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 <p align="center">
+  <img src="https://your-image-link-here.gif" alt="Hi, I'm Anju Kumawat 👋 Final Year CSE Student | Tech Explorer 💡" />
+</p>
+---
+<p align="center">
   <a href="https://www.linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
