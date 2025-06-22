@@ -50,5 +50,6 @@ ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
 Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
 Concepts      : DSA, OOP, Chatbots, MVC, NLP
 ```
-![Thanks for visiting](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Thanks for visiting](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=👋+Thanks+for+visiting!)
+
 
