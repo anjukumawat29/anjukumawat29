@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anju+Kumawat;Final+Year+CSE+Student;Tech+Explorer+💡" />
+  <img src="https://i.gifer.com/7VE.gif" width="100%" />
 </p>
+
+<h2 align="center" style="margin-top:-200px; color:white;">Hi 👋, I'm Anju Kumawat</h2>
+<p align="center" style="color:#00ff99;">Tech Explorer | CSE Final Year 💡</p>
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
