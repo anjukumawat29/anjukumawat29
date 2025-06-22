@@ -62,5 +62,5 @@ Tools & IDEs  : Git, GitHub, VS Code, Groq API, Render, MapTiler
 Concepts      : DSA, OOP, Chatbots, MVC, NLP
 ```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ffcc&animation=twinkling" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=00ffff&animation=twinkling" alt="footer"/>
 </p>
