@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anju+Kumawat;Final+Year+CSE+Student;Tech+Explorer+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AD1F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Anju+Kumawat;Final+Year+CSE+Student;Web+%26+ML+Developer;Let's+Build+Together+💡" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
