@@ -28,11 +28,11 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anjukumawat29/anjukumawat29/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/anjukumawat29/anjukumawat29/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
 
 ---
 
