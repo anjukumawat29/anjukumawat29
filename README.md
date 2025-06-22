@@ -1,48 +1,6 @@
-<div class="intro">
+
   <h1>Hi, I'm Anju Kumawat 👋</h1>
   <p>Final Year CSE Student | Tech Explorer 💡</p>
-  <div class="binary-bg">010101001010101001100101010101001010101...</div>
-</div>
-
-<style>
-  .intro {
-    position: relative;
-    background-color: #000;
-    color: #fff;
-    padding: 2rem;
-    text-align: center;
-    font-family: monospace;
-    overflow: hidden;
-    border-radius: 12px;
-  }
-
-  .intro h1, .intro p {
-    position: relative;
-    z-index: 2;
-    margin: 0;
-  }
-
-  .binary-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    color: rgba(0, 255, 100, 0.08);
-    font-size: 14px;
-    white-space: nowrap;
-    animation: scrollBinary 10s linear infinite;
-    z-index: 1;
-  }
-
-  @keyframes scrollBinary {
-    0% { transform: translateY(-100%); }
-    100% { transform: translateY(100%); }
-  }
-</style>
-
-
-
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
