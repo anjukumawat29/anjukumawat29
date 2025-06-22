@@ -45,7 +45,10 @@
 **Tech:** Python | Tkinter  
 🎮 Fun interactive game with AI-based decision making  
 [🔗 View Repo](https://github.com/anjukumawat29/Tic-Tac-Toe-game)
+---
+## 💡 Today’s Thought
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Fira+Code)
 ---
 
 ### 💻 Tech Stack
