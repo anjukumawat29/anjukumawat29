@@ -1,6 +1,10 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Hi%20there,%20I'm%20Anju%20Kumawat!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3AD1F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Anju+Kumawat;Final+Year+CSE+Student;Web+%26+ML+Developer;Let's+Build+Together+💡" />
 </p>
+
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
