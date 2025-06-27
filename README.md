@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anju+Kumawat;A+curious+mind+in+tech+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:anjukumawat1004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -56,19 +66,7 @@ Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
 ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
 Tools & IDEs  : Git, GitHub, VS Code, Groq API
 ```
-## Connect with me
 
-<p align="center">
-  <a href="mailto:anjukumawat1004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Thanks+for+visiting!" alt="Thanks for visiting" />
