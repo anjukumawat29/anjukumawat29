@@ -6,10 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anju+Kumawat;A+curious+mind+in+tech+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## Connect with me
+##  Connect with me
 
-[![Gmail](https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif)](mailto:anjukumawat1004@gmail.com)
-[![LinkedIn](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)](https://linkedin.com/in/anju-kumawat-4a6014276)
+<p align="center">
+  <a href="mailto:anjukumawat1004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin" />
+  </a>
+</p>
 
 ---
 
