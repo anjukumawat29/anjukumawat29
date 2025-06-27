@@ -60,11 +60,11 @@ Tools & IDEs  : Git, GitHub, VS Code, Groq API
 
 <p align="center">
   <a href="mailto:anjukumawat1004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anjukumawat1004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/anju-kumawat-4a6014276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anju%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
