@@ -26,17 +26,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🔹 [TravaHome – Airbnb-like Travel Listing App](https://github.com/anjukumawat29/TravaHome)  
-**Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap | Cloudinary | MapTiler  
-🧳 Dynamic listing filters, reviews, user auth — inspired by real travel apps  
-
-#### 🔹 [Personal Assistant Chatbot (Real-Time + Auto-Reply)](https://github.com/anjukumawat29/chatbot)  
-**Tech:** Python | FastAPI | LLaMA 3 API | PyAutoGUI | Tkinter  
-💬 Responds automatically to messages on WhatsApp/Telegram — also acts as a personal desktop assistant
-
----
 
 
 <p align="center">
@@ -61,10 +50,10 @@
 </p>
 
 ```bash
-Languages     : Python, JavaScript, C++, Java
+Languages     : Python, Java
 Web Dev       : HTML, CSS, Node.js, Express.js, MongoDB, Bootstrap, EJS
-ML Tools      : Scikit-learn, Pandas, Matplotlib, OpenCV, FastAPI
-Tools & IDEs  : Git, GitHub, VS Code, Groq API
+ML Tools      : Scikit-learn, Pandas, Matplotlib
+Tools & IDEs  : Git, GitHub, VS Code,
 ```
 
 
