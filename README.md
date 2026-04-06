@@ -21,7 +21,7 @@
 ### 👩‍💻 About Me
 
 🧠 Passionate about **AI, ML**, and **full-stack web development**  
-🚀 Building real-world solutions using **FastAPI**, **MERN**, and **NLP**  
+🚀 Building real-world solutions using **ML**, **MERN**, and **Computer Vision**  
 📚 Active learner with a curious mind and research mindset  
 
 ---
